@@ -2,12 +2,13 @@
 
 ## config
 
-```json
-{
-  "rules": {
-    "no-spaced-func-literal": 2
-  }
-}
+```yaml
+plugins:
+  - no-func-space
+
+rules:
+  # Plugins
+  no-func-space/no-func-space : 2
 ```
 
 ## TODO

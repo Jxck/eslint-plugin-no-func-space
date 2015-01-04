@@ -13,10 +13,18 @@
   "keywords": [
     "eslint"
   ],
-  "author": "Jxck",
+  "author": {
+    "name": "Jxck"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Jxck/eslint-plugin-no-func-space/issues"
   },
-  "homepage": "https://github.com/Jxck/eslint-plugin-no-func-space"
+  "homepage": "https://github.com/Jxck/eslint-plugin-no-func-space",
+  "readme": "# custom ESLint rule, ckeck function/*no space here!!*/()\n\n## config\n\n```json\n{\n  \"rules\": {\n    \"no-spaced-func-literal\": 2\n  }\n}\n```\n\n## TODO\n\n- test\n",
+  "readmeFilename": "README.md",
+  "gitHead": "e1075154935cb6e5eb920728609ef9317f9b4a52",
+  "_id": "eslint-plugin-no-func-space@0.0.1",
+  "_shasum": "3abdad2e6060ebec0e82ab58f7cb08332521b958",
+  "_from": "../../jxck/eslint-plugin-no-func-space"
 }
