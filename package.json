@@ -2,7 +2,7 @@
   "name": "eslint-plugin-no-func-space",
   "version": "0.0.1",
   "description": "custom eslint rules, no space between 'function' and '()'.",
-  "main": "no-spaced-func-literal.js",
+  "main": "no-func-space.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
