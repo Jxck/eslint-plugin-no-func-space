@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-no-func-space",
+  "version": "0.0.1",
+  "description": "custom eslint rules, no space between 'function' and '()'.",
+  "main": "no-spaced-func-literal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jxck/eslint-plugin-no-func-space"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Jxck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jxck/eslint-plugin-no-func-space/issues"
+  },
+  "homepage": "https://github.com/Jxck/eslint-plugin-no-func-space"
+}
