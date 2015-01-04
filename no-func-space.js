@@ -10,6 +10,6 @@ module.exports = function(context) {
       if (matched[1].length > 0) {
         context.report(node, "no space between 'function' and '()'");
       }
-    };
+    }
   };
 };
