@@ -21,7 +21,7 @@
     "lint"
   ],
   "license": "MIT",
-  "main": "no-func-space.js",
+  "main": "index.js",
   "peerDependencies": {
     "eslint": ">=0.20.0"
   },
